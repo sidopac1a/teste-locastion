@@ -13,6 +13,7 @@
     "autoprefixer": "^10.4.16",
     "date-fns": "^2.30.0",
     "firebase": "^10.14.1",
+    "firebase-admin": "^13.8.0",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.294.0",
     "next": "^14.0.0",
