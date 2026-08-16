@@ -1,4 +1,5 @@
-# نظام تتبع مواقع الموظفين (Employee Location Tracking System)
+# by Rogue Byte sido 
+نظام تتبع مواقع الموظفين (Employee Location Tracking System)
 
 <div align="center">
 
@@ -211,6 +212,8 @@ vercel --prod
 
 <div align="center">
 
-**تم البناء بـ ❤️ لإدارة فرق العمل الميدانية**
+**تم البناء نضام بواسطة sido rogue byte 
+
+Official website: https://roguebyte-official.vercel.app/
 
 </div>
